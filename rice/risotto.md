@@ -1,6 +1,7 @@
 # Rissotto
-Please note that this is the first rough draft. Will be finalized at a later point.
 [IMAGE SOON™️]
+
+Please note that this is the first rough draft. Will be finalized at a later point.
 
 ## Ingredients
 - 2 Onions
