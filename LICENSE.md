@@ -1,6 +1,6 @@
-Custom License - Based on MIT
+# Custom License - Based on MIT
 
-Copyright (c) 2024 Pukima <pukima@pukima.site>
+_Copyright (c) 2024 Pukima <pukima@pukima.site>_
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -12,7 +12,7 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-Commercial use, sublicensing, or selling of the Software, in whole or in part, is explicitly prohibited without prior written permission from the author.
+__Commercial use, sublicensing, or selling of the Software, in whole or in part, is explicitly prohibited without prior written permission from the author.__
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
